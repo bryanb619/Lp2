@@ -1,0 +1,14 @@
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula08\LINQFluent\LINQUFluent\bin\Debug\net7.0\LINQUFluent.exe
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula08\LINQFluent\LINQUFluent\bin\Debug\net7.0\LINQUFluent.deps.json
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula08\LINQFluent\LINQUFluent\bin\Debug\net7.0\LINQUFluent.runtimeconfig.json
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula08\LINQFluent\LINQUFluent\bin\Debug\net7.0\LINQUFluent.dll
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula08\LINQFluent\LINQUFluent\bin\Debug\net7.0\LINQUFluent.pdb
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula08\LINQFluent\LINQUFluent\obj\Debug\net7.0\LINQUFluent.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula08\LINQFluent\LINQUFluent\obj\Debug\net7.0\LINQUFluent.AssemblyInfoInputs.cache
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula08\LINQFluent\LINQUFluent\obj\Debug\net7.0\LINQUFluent.AssemblyInfo.cs
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula08\LINQFluent\LINQUFluent\obj\Debug\net7.0\LINQUFluent.csproj.CoreCompileInputs.cache
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula08\LINQFluent\LINQUFluent\obj\Debug\net7.0\LINQUFluent.dll
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula08\LINQFluent\LINQUFluent\obj\Debug\net7.0\refint\LINQUFluent.dll
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula08\LINQFluent\LINQUFluent\obj\Debug\net7.0\LINQUFluent.pdb
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula08\LINQFluent\LINQUFluent\obj\Debug\net7.0\LINQUFluent.genruntimeconfig.cache
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula08\LINQFluent\LINQUFluent\obj\Debug\net7.0\ref\LINQUFluent.dll

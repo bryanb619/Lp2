@@ -1,0 +1,14 @@
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula07\Delegates\Delegates\bin\Debug\net7.0\Delegates.exe
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula07\Delegates\Delegates\bin\Debug\net7.0\Delegates.deps.json
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula07\Delegates\Delegates\bin\Debug\net7.0\Delegates.runtimeconfig.json
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula07\Delegates\Delegates\bin\Debug\net7.0\Delegates.dll
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula07\Delegates\Delegates\bin\Debug\net7.0\Delegates.pdb
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula07\Delegates\Delegates\obj\Debug\net7.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula07\Delegates\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfoInputs.cache
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula07\Delegates\Delegates\obj\Debug\net7.0\Delegates.AssemblyInfo.cs
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula07\Delegates\Delegates\obj\Debug\net7.0\Delegates.csproj.CoreCompileInputs.cache
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula07\Delegates\Delegates\obj\Debug\net7.0\Delegates.dll
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula07\Delegates\Delegates\obj\Debug\net7.0\refint\Delegates.dll
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula07\Delegates\Delegates\obj\Debug\net7.0\Delegates.pdb
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula07\Delegates\Delegates\obj\Debug\net7.0\Delegates.genruntimeconfig.cache
+D:\Uni\Aulas\LP2\ExerciciosAula\LP2Aula07\Delegates\Delegates\obj\Debug\net7.0\ref\Delegates.dll
